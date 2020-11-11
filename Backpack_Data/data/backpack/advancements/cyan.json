@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "backpack:cyan"
+            }
+        }
+    },
+    "rewards": {
+        "function": "backpack:cyan"
+    }
+}
