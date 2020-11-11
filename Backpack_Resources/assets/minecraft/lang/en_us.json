@@ -1,0 +1,18 @@
+{
+	"item.backpack.normal.name": "Backpack",
+	"item.backpack.black.name": "Black Backpack",
+	"item.backpack.blue.name": "Blue Backpack",
+	"item.backpack.cyan.name": "Cyan Backpack",
+	"item.backpack.green.name": "Green Backpack",
+	"item.backpack.gray.name": "Gray Backpack",
+	"item.backpack.light_blue.name": "Light Blue Backpack",
+	"item.backpack.light_gray.name": "Light Gray Backpack",
+	"item.backpack.lime.name": "Lime Backpack",
+	"item.backpack.magenta.name": "Magenta Backpack",
+	"item.backpack.orange.name": "Orange Backpack",
+	"item.backpack.pink.name": "Pink Backpack",
+	"item.backpack.purple.name": "Purple Backpack",
+	"item.backpack.red.name": "Red Backpack",
+	"item.backpack.white.name": "White Backpack",
+	"item.backpack.yellow.name": "Yellow Backpack"
+}

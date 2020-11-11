@@ -1,0 +1,18 @@
+{
+	"item.backpack.normal.name": "背包",
+	"item.backpack.black.name": "黑色背包",
+	"item.backpack.blue.name": "藍色背包",
+	"item.backpack.cyan.name": "青色背包",
+	"item.backpack.green.name": "綠色背包",
+	"item.backpack.gray.name": "灰色背包",
+	"item.backpack.light_blue.name": "淺藍色背包",
+	"item.backpack.light_gray.name": "淺灰色背包",
+	"item.backpack.lime.name": "淺綠色背包",
+	"item.backpack.magenta.name": "洋紅色背包",
+	"item.backpack.orange.name": "橙色背包",
+	"item.backpack.pink.name": "粉紅色背包",
+	"item.backpack.purple.name": "紫色背包",
+	"item.backpack.red.name": "紅色背包",
+	"item.backpack.white.name": "白色背包",
+	"item.backpack.yellow.name": "黃色背包"
+}
